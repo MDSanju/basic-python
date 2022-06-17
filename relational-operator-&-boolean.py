@@ -1,0 +1,9 @@
+# Relational operator
+print(30 > 20)
+print(30 < 20)
+print(30 >= 20)
+print(30 <= 20)
+print(30 == 20)
+print(30 != 20)
+print("Fine" == "Good")
+print("Fine" != "Good")
